@@ -1,0 +1,10 @@
+streamlit
+pandas
+gspread
+google-auth
+matplotlib
+streamlit-aggrid
+requests
+pdfminer.six
+scikit-learn
+beautifulsoup4
