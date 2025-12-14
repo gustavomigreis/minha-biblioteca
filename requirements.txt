@@ -1,0 +1,8 @@
+streamlit
+pandas
+matplotlib
+streamlit-aggrid
+requests
+pdfminer.six
+scikit-learn
+gensim
