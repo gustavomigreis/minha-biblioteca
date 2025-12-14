@@ -1,0 +1,6 @@
+streamlit
+pandas
+sqlite3
+requests
+pdfminer.six
+scikit-learn # Adicionado para PLN e ML futuros
